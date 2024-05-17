@@ -1,1 +1,4 @@
-{"test":"abc"}
+{
+  "apiURL": "https://deskalerts.merilytics.com",
+  "uiRender": "https://deskalerts.merilytics.com"
+}
